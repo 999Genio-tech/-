@@ -1,33 +1,28 @@
 {
-    "Version": 23,
-    "ReleaseNotes": "TESTE ATUALIZAÇÃO GENIO",
-    "Sms": "https://999geniodev.cu.ma/update/temp/sms",
+{
+    "Version": 24,
+    "ReleaseNotes": "✊NOVO SERVIDOR ADICIONADO 📶",
+    "Sms": "https://999geniodev.cu.ma/update/tempo/sms",
     "UrlUpdate": "https://raw.githubusercontent.com/999Genio-tech/-/refs/heads/main/psd.acc",
     "EmailFeedback": "advanceantonio@gmail.com",
     "UrlContato": "+244947706414",
-    "UrlTermos": "Gvhjj",
-    "CheckUser": "true",
+    "UrlTermos": "Free Net 999Dev",
+    "CheckUser": "false",
     "Udp": [
         {
             "Porta": "7300"
+        },
+        {
+            "Porta": "7200"
+        },
+        {
+            "Porta": "2200"
         }
     ],
-    "Servers": [
-    {
-      "Name": "🗓🗓🗓🗓 seja feliz navega sem parar 👻⚪️",
-      "TYPE": "gratis",
-      "FLAG": "fr.png",
-      "ServerIP": "directo.elver.online",
-      "CheckUser": "",
-      "ServerPort": "80",
-      "SSLPort": "443",
-      "USER": "genisvpn",
-      "PASS": "genisvpn"
-    },
-    ],
+    "Servers": [],
     "Networks": [
         {
-            "Name": "MOVICEL V1",
+            "Name": "🇦🇴MOVICEL🔴",
             "FLAG": "oi",
             "Payload": "GET /? HTTP/1.0[lf]Host: [app_host][lf]Upgrade: websocket[lf]Connection: Keep-AliveUser-Agent: [ua]Referer: [lf][lf]",
             "SNI": "[app_host]",
@@ -35,6 +30,26 @@
             "ProxyIP": "",
             "ProxyPort": "",
             "Info": "Tlsws"
+        },
+        {
+            "Name": "🇲🇿 🗓vodafone ",
+            "FLAG": "claro",
+            "Payload": "GET / HTTP/1.1[crlf]Host: directo.elver.online[crlf]Upgrade: websocket[crlf][crlf]",",
+            "SNI": "www.mymuze.com",
+            "TlsIP": "",
+            "ProxyIP": "www.mymuze.com",
+            "ProxyPort": "443",
+            "Info": "Ssl"
+        },
+        {
+            "Name": "unlimeted | Social🇦🇴",
+            "FLAG": "vivo",
+            "Payload": "[method] [host_port] HTTP/1.1[crlf]Host: Twitter.com[crlf]Upgrade: websocket[crlf]Connection: Keep-Alive[crlf][crlf]]",
+            "SNI": "",
+            "TlsIP": "Twitter.com",
+            "ProxyIP": "",
+            "ProxyPort": "80",
+            "Info": "Direct"
         }
     ]
 }
