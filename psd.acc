@@ -1,0 +1,40 @@
+{
+    "Version": 21,
+    "ReleaseNotes": "TESTE ATUALIZAÇÃO RAW",
+    "Sms": "",
+    "UrlUpdate": "https://raw.githubusercontent.com/999Genio-tech/-/refs/heads/main/psd.acc",
+    "EmailFeedback": "advanceantonio@gmail.com",
+    "UrlContato": "+244947706414",
+    "UrlTermos": "Gvhjj",
+    "CheckUser": "true",
+    "Udp": [
+        {
+            "Porta": "7300"
+        }
+    ],
+    "Servers": [
+    {
+      "Name": "🗓🗓🗓🗓 seja feliz navega sem parar 👻⚪️",
+      "TYPE": "gratis",
+      "FLAG": "fr.png",
+      "ServerIP": "directo.elver.online",
+      "CheckUser": "",
+      "ServerPort": "80",
+      "SSLPort": "443",
+      "USER": "genisvpn",
+      "PASS": "genisvpn"
+    },
+    ],
+    "Networks": [
+        {
+            "Name": "MOVICEL V1",
+            "FLAG": "oi",
+            "Payload": "GET /? HTTP/1.0[lf]Host: [app_host][lf]Upgrade: websocket[lf]Connection: Keep-AliveUser-Agent: [ua]Referer: [lf][lf]",
+            "SNI": "[app_host]",
+            "TlsIP": "104.16.251.55",
+            "ProxyIP": "",
+            "ProxyPort": "",
+            "Info": "Tlsws"
+        }
+    ]
+}
